@@ -1,5 +1,5 @@
 PORT=8787
-POLYGON_API_KEY=w27txZWCrNtqW47UFJ3lBjD6thmIeI4p
+POLYGON_API_KEY=H02DHRSt_4aqscKM4FY5418hxZTr16Qs
 # Optional, for live quotes relay (not required for metrics)
 FINNHUB_API_KEY=fn_your_key_here
 UNIVERSE=AAPL,MSFT,NVDA,AMZN,TSLA,META,AMD,GOOGL,NFLX,INTC
